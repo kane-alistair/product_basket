@@ -1,0 +1,15 @@
+.stock {
+  width: 25vw;
+}
+
+.in-stock {
+  color: lightgreen;
+}
+
+.out-of-stock {
+  color: crimson;
+}
+
+.urgent {
+  font-style: italic;
+}

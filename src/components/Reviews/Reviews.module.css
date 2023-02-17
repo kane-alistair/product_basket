@@ -1,0 +1,22 @@
+.reviews {
+  margin: 1rem 0;
+}
+
+.review {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  align-items: baseline;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.date {
+  font-style: italic;
+}
+
+.reviewBody {
+  margin: 0.5rem;
+  align-self: baseline;
+}
